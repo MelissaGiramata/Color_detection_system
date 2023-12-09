@@ -4,4 +4,4 @@ pandas
 tensorflow
 joblib
 opencv-python
-scikit-learn
+scikit-learn== 1.2.2
