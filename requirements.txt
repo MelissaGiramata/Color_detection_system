@@ -4,3 +4,4 @@ pandas
 tensorflow
 joblib
 opencv-python
+scikit-learn
