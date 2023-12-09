@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+tensorflow
+joblib
+cv2
